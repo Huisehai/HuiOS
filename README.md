@@ -1,6 +1,6 @@
 # HuiOS
 HuiOS 低延迟游戏系统介绍
-HuiOS is a low-latency gaming-oriented Windows ISO by 灰角 (NTLite-based). Not a reskin of Atlas / XOS / Revi — deep work on Timer, input queues, MSI/IRQ, power plans, and the network stack, plus Chinese tooling and support.
+HuiOS is a low-latency gaming-oriented Windows ISO by 灰角. Not a reskin of Atlas / XOS / Revi — deep work on Timer, input queues, MSI/IRQ, power plans, and the network stack, plus Chinese tooling and support.
 中文简介：面向游戏手感的 Windows 封装镜像（优化写进 ISO）。
 ## Why
 - Push system / input latency and 1% lows for competitive games
