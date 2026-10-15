@@ -9,8 +9,8 @@ HuiOS is a low-latency gaming-oriented Windows ISO by 灰角 (NTLite-based). Not
 ## Latency (BoosterX)
 | Run | Average | Min | Max | Std Dev | Samples |
 |-----|--------:|----:|----:|--------:|--------:|
-| A | **2.15 ms** | 1.94 | 2.41 | 0.06 | 100 |
-| B | **1.97 ms** | 1.92 | 2.06 | 0.02 | 100 |
+| 5070+9800X3D HuiOS | **2.15 ms** | 1.94 | 2.41 | 0.06 | 100 |
+| 5060Ti+9800X3D HuiOS | **1.97 ms** | 1.92 | 2.06 | 0.02 | 100 |
 Hardware sets the floor; software mainly cleans jitter and the long tail.
 ![BoosterX ~2.15 ms]
 ![BoosterX ~1.97 ms]
